@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="26" viewBox="0 0 15 26">
+  <g id="Small_Triange" data-name="Small Triange" transform="translate(15) rotate(90)" fill="#0c0c0c">
+    <path d="M 24.90501976013184 14.5 L 1.094980716705322 14.5 L 13 0.7634392380714417 L 24.90501976013184 14.5 Z" stroke="none"/>
+    <path d="M 13 1.526880264282227 L 2.189962387084961 14 L 23.81003761291504 14 L 13 1.526880264282227 M 13 0 L 26 15 L 0 15 L 13 0 Z" stroke="none" fill="#070506"/>
+  </g>
+</svg>

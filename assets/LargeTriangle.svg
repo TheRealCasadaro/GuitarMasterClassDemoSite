@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="66" viewBox="0 0 63 66">
+  <g id="Large_Triangle" data-name="Large Triangle" transform="translate(63) rotate(90)" fill="#0c0c0c">
+    <path d="M 65.17365264892578 62.5 L 0.8263485431671143 62.5 L 33 1.077574491500854 L 65.17365264892578 62.5 Z" stroke="none"/>
+    <path d="M 33 2.155139923095703 L 1.652694702148438 62 L 64.34730529785156 62 L 33 2.155139923095703 M 33 0 L 66 63 L 0 63 L 33 0 Z" stroke="none" fill="#070506"/>
+  </g>
+</svg>
